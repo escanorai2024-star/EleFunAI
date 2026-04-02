@@ -1,2 +1,2 @@
-# GhostUncleAI
+# EleFunAI
 AItools
