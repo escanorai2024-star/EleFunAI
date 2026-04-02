@@ -1,0 +1,35 @@
+By using the open-source version, you agree to abide by the following agreements. Terms updated: 2026-03-29
+
+1. The open-source version may not be used for any unauthorized commercial purposes.
+
+2. The open-source version may not be used to tamper with the logo or name.
+
+3. The open-source version may not be used to modify the contributor list.
+
+4. The open-source version may not be used for any activities that violate local laws and regulations; otherwise, you will be solely responsible for the consequences, and I will bear no responsibility whatsoever.
+
+5. The open-source version may not be used for any alterations, such as face swapping, style changes, etc.; otherwise, you and the platform you are using will bear the relevant responsibilities.
+
+6. I am not responsible for any illegal activities; you must abide by the relevant regulations.
+
+7. The company may modify the code for internal use.
+
+8. Individuals may modify the code for personal use, but the functionality must be legal and compliant.
+
+9. No individual or company may sell the software, but we reserve the right to share it and create accompanying courses (course-related software).
+
+10. Any act of tampering with the logo or the open-source version will be subject to prosecution, with penalties ranging from five times the profits earned.
+
+11. Users can modify the code for commercial video production and projects, but may not modify the [LOGO], [Software Name], or [About Page].
+
+12. Users can modify the code, fix features, and develop new modules, and may choose whether to submit them. However, they may not modify the [LOGO], [Software Name], or [About Page].
+
+13. Anyone can package the software for personal or company use. However, they may not modify the [LOGO], [Software Name], or [About Page].
+
+14. Any act of tampering with the [LOGO], [Software Name], or [About Page] will be subject to compensation liability of at least 5 times the profits, in accordance with this agreement.
+
+15. If no profit has been generated, but the [LOGO], [Software Name], or [About Page] has been modified for other commercial activities, such as selling courses, teaching, or media company cultural promotion, then compensation will be calculated at 100,000.
+
+Modifying the LOGO, software name, or about page requires [authorization application]. Other modifications are permissible. Thank you. Please monitor each other.
+
+If you discover any malicious tampering, please report it in the comments section.
