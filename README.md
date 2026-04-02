@@ -1,4 +1,4 @@
-# EleFunAI
+# GhostUncleAI
 Ghost Uncle AI is an AIGC integration tool entirely developed independently by Ghost Uncle. The entire source code has recently been open-sourced, allowing users to deploy it freely.
 It's a completely free, comprehensive AIGC integration toolkit with a vast asset library and customizable permissions.
 It boasts the most comprehensive AI agent suite and features independently developed AI tools. Suitable for e-commerce, gaming, architecture, animation, directing, education, history, narration, and design across various industries. We've added a vast collection of AI agents for the education system! Teachers are welcome to use it!
