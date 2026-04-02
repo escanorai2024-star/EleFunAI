@@ -5,6 +5,8 @@ It boasts the most comprehensive AI agent suite and features independently devel
 Supported Languages: Chinese/English/Vietnamese
 
 
+Readme：https://kcn3odiegb3y.feishu.cn/wiki/CkJqwG8hjit9zVkcXjocNba8nqd?fromScene=spaceOverview
+
 Supports one-click comic generation
 
 <img width="1079" height="604" alt="image" src="https://github.com/user-attachments/assets/ac030fa3-71ad-4cef-bf31-335eb55c91e6" />
