@@ -1,0 +1,44 @@
+By using the open-source version, you agree to abide by the following agreements. Terms updated: 2026-03-30
+
+---
+1. The open-source version may not be used for any unauthorized commercial purposes.
+
+2. The open-source version may not be used to tamper with the logo or name.
+
+3. The open-source version may not be used to modify the contributor list.
+
+4. The open-source version may not be used for any activities that violate local laws and regulations; otherwise, you will be solely responsible for the consequences, and I will bear no responsibility whatsoever.
+
+5. The open-source version may not be used for any acts of tampering, face swapping, or style manipulation; otherwise, you and the platform you are using will bear the relevant responsibilities.
+
+6. Any illegal activities are unrelated to me; you should abide by the relevant regulations.
+
+7. The company may modify the code for internal use.
+
+8. Individuals may modify the code for personal use, but the functionality must be legal and compliant.
+
+9. No individual or company may sell the software, but we reserve the right to share it and create accompanying courses (course-related software).
+
+10. Any act of tampering with the logo or the open-source version will result in the pursuit of at least five times the profits earned.
+
+11. Users can modify the code for commercial video production and projects, but may not modify [LOGO][Software Name][About Page].
+
+12. Users can modify the code, fix functions, and develop new modules, and can choose whether to submit them. However, they may not modify [LOGO][Software Name][About Page].
+
+13. Anyone can package the software for personal or company use. However, they may not modify [LOGO][Software Name][About Page].
+
+14. Any act of tampering with [LOGO][Software Name][About Page] will be subject to liability for damages of 5 times the profits earned, in accordance with this agreement.
+
+15. If no profit is generated, but [LOGO][Software Name][About Page] has been modified for other commercial activities, such as selling courses, teaching, or media company cultural promotion, then compensation will be calculated at 100,000.
+
+16. Your modified version cannot be released casually; it can only be provided to you and your company for your own research and research purposes.
+
+Thank you. You will be solely responsible for any malicious tampering.
+
+17. You are welcome to participate in code development and independent research. However, if you only modify the source code, it can only be used by yourself and your company.
+
+For example, if you modify the code into a malicious version, bundle viruses or Trojans, spread malicious rumors or slander, or engage in illegal or disorderly conduct, you will be personally responsible.
+
+Modifying the logo, software name, or About page requires [authorization application]. Thank you. Please supervise each other.
+
+For details, please send an email to escanorai2024@gmail.com
