@@ -8,7 +8,7 @@ Supported Languages: Chinese/English/Vietnamese
 Readme：https://kcn3odiegb3y.feishu.cn/wiki/CkJqwG8hjit9zVkcXjocNba8nqd?fromScene=spaceOverview
 
 您必须遵守开源协议，否则您自己承担相关责任。有关协议已经在【源代码】【文档】中的【开源协议】明确声明。
-我方不在阐述相关内容，谢谢。
+我方不在阐述相关内容，谢谢。任何不遵守相关协议的用户，将被追究其相关责任。
 
 You must abide by the open-source license; otherwise, you will bear the associated responsibilities. The relevant agreement is clearly stated in the "Open Source License" section of the source code and documentation.
 We will not elaborate further on this. Thank you.
