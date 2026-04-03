@@ -10,6 +10,8 @@ Readme：https://kcn3odiegb3y.feishu.cn/wiki/CkJqwG8hjit9zVkcXjocNba8nqd?fromSce
 您必须遵守开源协议，否则您自己承担相关责任。有关协议已经在【源代码】【文档】中的【开源协议】明确声明。
 我方不在阐述相关内容，谢谢。任何不遵守相关协议的用户，将被追究其相关责任。
 
+商业用途必须得到商业授权。禁止修改LOGO ，关于页面，非法操作，打包发布 。详情查阅完整的开源协议。
+
 You must abide by the open-source license; otherwise, you will bear the associated responsibilities. The relevant agreement is clearly stated in the "Open Source License" section of the source code and documentation.
 We will not elaborate further on this. Thank you.
 
