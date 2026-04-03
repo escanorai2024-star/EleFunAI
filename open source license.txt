@@ -1,35 +1,137 @@
-By using the open-source version, you agree to abide by the following agreements. Terms updated: 2026-03-29
+This open-source software license agreement (hereinafter referred to as "this Agreement") is jointly entered into by the copyright holder of this open-source software (hereinafter referred to as "the Software") (hereinafter referred to as "the Licensor") and all natural persons, legal persons, or other organizations that obtain, use, or modify the Software (hereinafter referred to as "the Licensees"). Both parties shall strictly abide by the provisions of this Agreement and fulfill their respective rights and obligations. This Agreement is formulated in accordance with the Copyright Law of the People's Republic of China, the Regulations on the Protection of Computer Software, and other relevant laws and regulations, and has legal effect. It shall automatically take effect from the date the Licensee obtains the Software.
 
-1. The open-source version may not be used for any unauthorized commercial purposes.
+Note: Any illegal or criminal activities committed using this Software shall be solely the sole responsibility of the Licensee, and the Licensor shall bear no responsibility whatsoever.
 
-2. The open-source version may not be used to tamper with the logo or name.
+Supplementary Explanation: This open-source Software is only provided to individuals and enterprises for legal learning and internal use. If a Licensee uses this Software version for comic book creation, and any violations occur, the Licensee shall bear all related legal responsibilities solely and the Licensor shall bear no responsibility whatsoever.
 
-3. The open-source version may not be used to modify the contributor list.
+I. Definitions and Scope
 
-4. The open-source version may not be used for any activities that violate local laws and regulations; otherwise, you will be solely responsible for the consequences, and I will bear no responsibility whatsoever.
+Supplementary Notes: The open-source use of this software is limited to legal learning and internal use by individuals and legally registered companies. Any use of this software for illegal or criminal activities is strictly prohibited. The licensee is strictly prohibited from packaging or modifying the software's source code and releasing it (including but not limited to public dissemination, external distribution, and uploading to public platforms) without the licensor's written authorization. Unauthorized modification of the source code for use outside of personal or company use is strictly prohibited. Violation of this agreement will be strictly pursued in accordance with the breach of contract clauses of this agreement, and all related legal liabilities shall be borne independently by the licensee and are unrelated to the licensor.
 
-5. The open-source version may not be used for any alterations, such as face swapping, style changes, etc.; otherwise, you and the platform you are using will bear the relevant responsibilities.
+1.1 Software: Refers to all publicly released source code, programs, interfaces, logos, software names, about pages, and related documents (including but not limited to user manuals and development documents) by the licensor.
 
-6. I am not responsible for any illegal activities; you must abide by the relevant regulations.
+1.2 Open-source version: Refers to the original version of the software publicly provided by the licensor, which has not been modified by the licensee or has only been modified within the scope permitted by this agreement.
 
-7. The company may modify the code for internal use.
+1.3 Modified version: Refers to the software version created by the licensee based on the open-source version, after modifications, additions, and optimizations in accordance with the provisions of this agreement.
 
-8. Individuals may modify the code for personal use, but the functionality must be legal and compliant.
+1.4 Commercial Use: Refers to business activities conducted for profit using the software, including but not limited to selling the software, using the software for commercial video production, commercial project development, course promotion, media advertising, and profit-making in teaching.
 
-9. No individual or company may sell the software, but we reserve the right to share it and create accompanying courses (course-related software).
+1.5 Licensed Use: Refers to the legal right obtained by the Licensee, after paying the corresponding licensing fee to the Licensor as stipulated in this Agreement, to modify the software logo, software name, about page, and to commercially distribute the software.
 
-10. Any act of tampering with the logo or the open-source version will be subject to prosecution, with penalties ranging from five times the profits earned.
+II. Licensor's Rights and Obligations
 
-11. Users can modify the code for commercial video production and projects, but may not modify the [LOGO], [Software Name], or [About Page].
+2.1 The Licensor owns the complete copyright of the software, including but not limited to the right of attribution, right of modification, right of reproduction, right of distribution, and right of dissemination via information networks, and reserves the right to update, modify, and terminate the open-source nature of the software.
 
-12. Users can modify the code, fix features, and develop new modules, and may choose whether to submit them. However, they may not modify the [LOGO], [Software Name], or [About Page].
+2.2 The Licensor shall publicly release the open-source version of the software, provide necessary technical documentation, and ensure that the Licensee can normally obtain and use the software within the scope stipulated in this Agreement.
 
-13. Anyone can package the software for personal or company use. However, they may not modify the [LOGO], [Software Name], or [About Page].
+2.3 The Licensor has the right to monitor the Licensee's use of the software. If the Licensee is found to have violated the provisions of this Agreement, the Licensor has the right to pursue its liability for breach of contract and demand that it bear corresponding compensation liability.
 
-14. Any act of tampering with the [LOGO], [Software Name], or [About Page] will be subject to compensation liability of at least 5 times the profits, in accordance with this agreement.
+2.4 The Licensor makes no express or implied warranties regarding the effectiveness, stability, or security of the software. Any risks arising from the licensee's use of the software (including but not limited to technical failures and legal risks) shall be borne solely by the licensee and are not the responsibility of the Licensor.
 
-15. If no profit has been generated, but the [LOGO], [Software Name], or [About Page] has been modified for other commercial activities, such as selling courses, teaching, or media company cultural promotion, then compensation will be calculated at 100,000.
+2.5 The Licensor has the right to collect software licensing fees in accordance with this Agreement and to grant corresponding authorization rights to qualified licensees.
 
-Modifying the LOGO, software name, or about page requires [authorization application]. Other modifications are permissible. Thank you. Please monitor each other.
+III. Licensee Rights and Obligations
 
-If you discover any malicious tampering, please report it in the comments section.
+3.1 Legal Use Rights
+
+3.1.1 Individual Licensees: Have the right to obtain and use the open-source version and may modify the software code. However, the modified version may only be used for personal learning, research, and legal operations related to comic book production, and may not be used for any commercial purposes or released without authorization. Modified functions must comply with relevant laws and regulations and public order and good morals, and may not be used for illegal or irregular activities.
+
+3.1.2 Corporate Licensees: Have the right to obtain and use the open-source version and may modify the software code internally. The modified version may only be used for internal corporate learning and legal operations related to comic book production, and may not be released, disseminated, or used for commercial purposes.
+
+3.1.3 The Licensee has the right to modify the software code, fix functionalities, and develop new modules, and may choose whether to submit the modifications to the Licensor. Upon submission, the Licensor has the right to use and modify the modifications.
+
+3.1.5 The Licensee has the right to use the modified version of the software for commercial video production and commercial project development, but may not modify the software's logo, software name, or about page, and must ensure that the use is legal and compliant.
+
+3.1.6 The Licensee has the right to share the open-source version of the software and accompanying courses (course-related software), but may not sell the software itself or use the sharing activity to generate profit.
+
+3.2 Prohibited Activities
+
+3.2.1 The Licensee may not use the open-source version of the software for any commercial purpose without the Licensor's authorization.
+
+3.2.2 The Licensee may not tamper with the software's logo, software name, or about page, nor modify the list of code contributors. If modifications to the above are required, authorization must be obtained from the Licensor in writing.
+
+3.2.3 The licensee is strictly prohibited from using this software for any illegal or criminal activities, including but not limited to content tampering, face swapping, style manipulation, bundling viruses or Trojans, malicious rumor-mongering, and defamation. All legal liabilities (including administrative penalties, civil compensation, and criminal liability) arising from such illegal or criminal activities shall be borne solely by the licensee and are unrelated to the licensor.
+
+3.2.7 The licensee shall not use this software to infringe upon the intellectual property rights (including copyright, trademark rights, patent rights, etc.), personal privacy, trade secrets, or other legitimate rights of others. The licensee shall not create, copy, or disseminate text, images, videos, audio, or other content that violates laws and regulations. The licensee shall bear all related liabilities.
+
+3.2.7 The licensee shall not use this software to infringe upon the intellectual property rights (including copyright, trademark rights, patent rights, etc.), personal privacy, trade secrets, or other legitimate rights of others. The licensee shall not create, copy, or disseminate text, images, videos, audio, or other content that violates laws and regulations.
+
+3.2.4 The licensee shall not sell the open-source version, modified version, or related source code of the software, nor shall it sell any related rights in any disguised form.
+
+3.2.8 This software may not be used to conduct network attacks, illegal intrusions, data theft, or spread viruses and Trojans, thereby endangering network security. It may not be used for fraud, extortion, false advertising, or other illegal or criminal activities. The licensee shall bear sole legal responsibility for any related actions.
+
+3.2.10 Without the licensor's written authorization, it is strictly prohibited to modify and distribute the software source code. Unauthorized packaging and distribution of the software is strictly prohibited. Providing modified source code or packaged software to third parties is strictly prohibited. Unauthorized modification of the software code for any distribution-related operations other than animation production is strictly prohibited.
+
+3.2.5 Modified versions of the software may not be released or distributed externally, nor may they be provided to any third party other than the individual or company.
+
+3.2.9 This software may not be used to engage in activities that violate national political, economic, cultural, or social management laws and regulations. It may not be used to disseminate content that endangers national security, undermines national unity, or disrupts social order.
+
+3.2.6 The software may not be modified into a malicious version, nor may it be used to engage in activities that harm the legitimate rights and interests of the licensor or third parties.
+
+3.2.11 The licensee shall not use the software to create or disseminate works containing illegal, vulgar, pornographic, malicious defamatory, or inciting violence content (including but not limited to comics, videos, etc.), nor shall the licensee use the software to defame or discredit the licensor or any third party.
+
+3.3 Other Obligations
+
+3.3.1 The licensee shall strictly abide by the terms of this agreement and relevant laws and regulations, and may only use the software for personal or company legal learning and internal use. It is strictly prohibited to use it for illegal or criminal activities. Unauthorized packaging or modification of the program source code before distribution is strictly prohibited. Any disputes, losses, or legal liabilities arising from violations of this agreement and relevant laws and regulations shall be borne solely by the licensee and shall have no connection with the licensor.
+
+3.3.2 The licensee shall cooperate with the licensor's supervision and inspection, and truthfully provide information regarding the use and modification of the software. The licensee shall not conceal or tamper with relevant information.
+
+3.3.3 If, after modifying the software code, the licensee adds a large amount of new code or the functional interface is completely inconsistent with the original open-source version, and intends to resell the modified version, the licensee must notify the licensor in writing in advance and obtain the licensor's authorization and consent. Otherwise, the licensee has no right to sell the modified version.
+
+3.3.4 Without the licensor's written authorization, the licensee may not modify the software code or distribute or disseminate it in any form; the licensee may only use the software for personal learning, or for legitimate company learning or animation production-related operations, and such operations must comply with laws and regulations and the provisions of this agreement, and may not be used for any other unauthorized purpose.
+
+IV. Licensed Use Terms
+
+4.1 If the licensee needs to modify the software's logo, software name, about page, or obtain commercial distribution or commercial use rights for the software, it must apply to the licensor for authorization and pay an authorization fee of RMB 888 (in words: Eight Hundred and Eighty-Eight Yuan Only).
+
+4.2 Payment Method for License Fees: The licensee shall pay through the sponsorship channel designated by the licensor. The payment remarks must include "Mobile Number + Company Name (Individuals must include Mobile Number + Name)". After payment, the licensor must confirm and reply "Acknowledged" before the licensee will receive the corresponding authorization. If payment is made but the licensor's "Acknowledged" confirmation is not received, the licensee will still not have the right to modify the software logo, software name, about page, or use the software for commercial purposes.
+
+4.3 Upon obtaining authorization, the licensee shall have the following rights:
+
+4.3.1 The right to modify the software's logo, interface, framework, and about page;
+
+4.3.2 The right to modify, optimize, and develop new modules for the software, creating proprietary products and launching them to the market;
+
+4.3.3 The right to use the software as a foundational framework for independent research and development. If the modified version differs significantly from the original open-source version (significantly adding new code, completely inconsistent functionalities), the licensee may resell the modified version with the licensor's authorization and consent;
+
+4.3.4 The licensee shall have the legal right to use the software commercially and conduct related commercial activities, but shall comply with the terms of this agreement and relevant laws and regulations.
+
+4.4 This authorization is granted only to the licensee (individual or enterprise) who pays the authorization fee. This authorization may not be transferred, leased, or lent. Otherwise, the licensor has the right to terminate the authorization, reclaim all rights, and pursue the licensee's liability for breach of contract. V. Liability for Breach of Contract
+
+5.1 Any breach of this Agreement by the Licensee shall be deemed a breach of contract, and the Licensor shall have the right to immediately terminate the Licensee's usage rights, demand that the Licensee cease the infringement, eliminate the impact, restore the original state, and bear corresponding compensation liability.
+
+5.2 If the Licensee alters the software logo, software name, about page, or modifies the list of code contributors, the Licensor shall have the right to pursue its compensation liability:
+
+5.2.1 If such breach generates profit, the Licensee shall pay the Licensor at least five times the profit as compensation;
+
+5.2.2 If such breach does not generate profit but is used for commercial activities (including but not limited to selling courses, teaching, media company cultural promotion, etc.), the Licensee shall pay the Licensor RMB 100,000 (in words: One Hundred Thousand Yuan Only) as compensation.
+
+5.3 If the Licensee violates this Agreement by selling the software, modifying its version or source code, or using it commercially without authorization, the Licensor has the right to demand that the Licensee cease selling or using the software commercially, confiscate all illegal gains, and demand that the Licensee pay at least five times the illegal gains as compensation; if no illegal gains have been generated, compensation of RMB 100,000 shall be paid.
+
+5.4 If the Licensee releases, distributes, or provides the modified software version to third parties, the Licensor has the right to demand that the Licensee immediately delete and cease distribution, and pay the Licensor compensation ranging from RMB 50,000 to RMB 100,000. If the Licensor suffers losses, those losses will be calculated separately.
+
+5.5 If the Licensee uses the software for illegal or irregular activities, or modifies the software into a malicious version, bundles viruses or Trojans, causing losses to the Licensor or any third party, the Licensee shall fully compensate for the relevant losses. In serious cases, the Licensor has the right to pursue criminal liability.
+
+5.6 If the Licensee resells the modified software version without the Licensor's consent, the Licensor has the right to demand that the Licensee cease sales, confiscate all illegal gains, and pay at least five times the illegal gains as compensation, while simultaneously terminating the Licensee's authorization.
+
+VI. Disclaimer
+
+6.1 The Licensor makes no guarantees regarding the software's suitability, stability, or security. Any direct or indirect losses incurred by the Licensee in using the software shall be borne solely by the Licensee, and the Licensor shall not bear any liability for compensation.
+
+6.2 Any disputes, penalties, or losses arising from the Licensee's violation of this Agreement or laws and regulations shall be borne solely by the Licensee, and have no relation to the Licensor, and the Licensor shall not bear any joint liability.
+
+6.4 Special Disclaimer: The Licensee expressly acknowledges and undertakes that this software is for legal learning and internal use by individuals and legally registered enterprises only. It is strictly prohibited to use this software for any illegal or criminal activities, and it is strictly prohibited to package the software or modify the program source code without the Licensor's written authorization for release or distribution. The Licensee acknowledges that all legal liabilities (including but not limited to administrative penalties, civil compensation, and criminal liability) arising from any illegal or criminal activities committed using this software, or any unauthorized packaging, modification, or distribution of the software, shall be borne solely and entirely by the Licensee, and the Licensor shall bear no joint liability whatsoever.
+
+6.6 The Licensee acknowledges that its acquisition and use of this software have obtained the necessary legal authorization, and all activities conducted using this software comply with laws, regulations, and relevant industry standards. If any illegal or irregular activities occur due to the Licensee's own lack of qualifications or authorization, the Licensee shall bear the relevant liabilities solely, and the Licensor shall not be held liable.
+
+6.5 If the Licensee violates the above statements and engages in any illegal or irregular activities using this software, all legal liabilities (including but not limited to administrative penalties, civil compensation, and criminal liability) arising therefrom shall be borne solely and entirely by the Licensee, and the Licensor shall bear no liability whatsoever. If any losses are caused to the Licensor or any third party, the Licensee shall provide full compensation, and the Licensor has the right to immediately terminate this agreement, revoke all usage rights, and pursue all breach of contract liabilities of the Licensee.
+
+6.3 If the Licensor is unable to perform its obligations under this Agreement due to force majeure (including but not limited to earthquakes, floods, fires, wars, policy adjustments, etc.), the Licensor shall not be liable for breach of contract, and the Licensee shall not claim compensation from the Licensor for losses on this basis.
+
+VII. Amendment and Termination of the Agreement
+
+7.1 Any amendment or supplement to this Agreement shall become effective only after being confirmed in writing by the Licensor. Any amendments not confirmed by the Licensor shall be invalid.
+
+7.2 If the Licensee breaches this Agreement, the Licensor has the right to terminate this Agreement at any time and revoke the Licensee's usage rights. The Licensee shall bear the corresponding liability for breach of contract.
+
+7.3 The Licensor has the right to terminate the open-source service of the software at its own discretion.
